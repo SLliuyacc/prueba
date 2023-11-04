@@ -8,7 +8,9 @@ esto es un texto
 
 texto prueba
 
+##seccion 3
 #esto es una tabla
+
 |Id | Profession | Age |
 |-- | -- | -- |
 |1 | Statistician | 25 |
