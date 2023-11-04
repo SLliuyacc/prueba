@@ -21,5 +21,6 @@ esto es una tabla
 
 el enlace para este repositorio es [mi repositorio](https://github.com/SLliuyacc/prueba).
 
-ahora agrego una imagen del software: git
+ahora agrego una imagen del software git:
+
 ![git](figuras/imagen.png)
